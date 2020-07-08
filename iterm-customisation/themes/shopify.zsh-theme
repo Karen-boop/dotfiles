@@ -5,6 +5,9 @@ $(prompt)$reset_color '
 
 RPROMPT=''
 
+# auto suggestion plugin color
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#50248F"
+
 # -------------------------------------------------------
 
 # Show the prompt
