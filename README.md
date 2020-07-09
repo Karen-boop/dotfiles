@@ -24,3 +24,11 @@
 1. Find the config value `ZSH_THEME`. By default it will be `ZSH_THEME="robbyrussell"`
 1. Change the value to be `ZSH_THEME="shopify"`
 1. In terminal run `. ~/.zshrc` to restart your terminal shell
+
+## Slack Customisation
+
+1. Go to Slack Preferences > Themes and enter the following into the [themes color bar](https://screenshot.click/D-09-nv8c7-vosk4.jpg)
+
+`#150628,#1F4662,#50248F,#FFFFFF,#084E8A,#FFFFFF,#DE3618,#EEC200,#230051,#FFFFFF`
+
+![](https://screenshot.click/D-10-oaj9n-u0d0i.jpg)
